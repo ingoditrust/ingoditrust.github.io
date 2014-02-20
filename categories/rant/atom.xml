@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rant | This is me.]]></title>
+  <link href="http://ingoditrust.github.io//categories/rant/atom.xml" rel="self"/>
+  <link href="http://ingoditrust.github.io/"/>
+  <updated>2014-02-20T18:04:44+01:00</updated>
+  <id>http://ingoditrust.github.io/</id>
+  <author>
+    <name><![CDATA[Dina]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What is wrong with me?]]></title>
+    <link href="http://ingoditrust.github.io/what-is-wrong-with-me/"/>
+    <updated>2014-02-20T17:06:52+01:00</updated>
+    <id>http://ingoditrust.github.io/what-is-wrong-with-me</id>
+    <content type="html"><![CDATA[<p>Another ranting, because none is listening, or do I have none?</p>
+
+<p>It seems the last question is the point. Somehow that&rsquo;s my feeling.</p>
+
+<p>But it doesn&rsquo;t matter here, I just hate this headache that attacks me again in the last 3 days. No, I don&rsquo;t want you to care, I just want to make myself feeling better by writing this.</p>
+
+<p>And if it helps, I&rsquo;ll do, I will do all to make myself feeling better, because none just does it.</p>
+
+<p>But it&rsquo;s okay, totally okay.</p>
+]]></content>
+  </entry>
+  
+</feed>
