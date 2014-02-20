@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rants | This is me.]]></title>
+  <link href="http://ingoditrust.github.io//categories/rants/atom.xml" rel="self"/>
+  <link href="http://ingoditrust.github.io/"/>
+  <updated>2014-02-20T18:04:44+01:00</updated>
+  <id>http://ingoditrust.github.io/</id>
+  <author>
+    <name><![CDATA[Dina]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Weirdness of Me]]></title>
+    <link href="http://ingoditrust.github.io/weirdness-of-me/"/>
+    <updated>2014-02-20T18:03:52+01:00</updated>
+    <id>http://ingoditrust.github.io/weirdness-of-me</id>
+    <content type="html"><![CDATA[<p>Well, after a Tomapirin, it&rsquo;s gone, but until when, let&rsquo;s can only hope..</p>
+]]></content>
+  </entry>
+  
+</feed>
