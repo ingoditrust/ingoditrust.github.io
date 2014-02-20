@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[This is me.]]></title>
-  <link href="http://ingoditrust.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: rant | This is me.]]></title>
+  <link href="http://ingoditrust.github.io//categories/rant/atom.xml" rel="self"/>
   <link href="http://ingoditrust.github.io/"/>
   <updated>2014-02-20T17:09:19+01:00</updated>
   <id>http://ingoditrust.github.io/</id>
@@ -27,15 +27,6 @@
 <p>And if it helps, I&rsquo;ll do, I will do all to make myself feeling better, because none just does it.</p>
 
 <p>But it&rsquo;s okay, totally okay.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Another Mandatory Hello World]]></title>
-    <link href="http://ingoditrust.github.io/another-mandatory-hello-world/"/>
-    <updated>2014-02-20T15:21:17+01:00</updated>
-    <id>http://ingoditrust.github.io/another-mandatory-hello-world</id>
-    <content type="html"><![CDATA[<p>Another Hello World post, who knows who can listen to me.</p>
 ]]></content>
   </entry>
   
