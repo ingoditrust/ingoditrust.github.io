@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Misc | This is me.]]></title>
   <link href="http://ingoditrust.github.io//categories/misc/atom.xml" rel="self"/>
   <link href="http://ingoditrust.github.io/"/>
-  <updated>2014-02-20T15:35:29+01:00</updated>
+  <updated>2014-02-20T15:41:20+01:00</updated>
   <id>http://ingoditrust.github.io/</id>
   <author>
     <name><![CDATA[Dina]]></name>
@@ -15,7 +15,7 @@
   
   <entry>
     <title type="html"><![CDATA[Another Mandatory Hello World]]></title>
-    <link href="http://ingoditrust.github.io/title/"/>
+    <link href="http://ingoditrust.github.io/another-mandatory-hello-world/"/>
     <updated>2014-02-20T15:21:17+01:00</updated>
     <id>http://ingoditrust.github.io/another-mandatory-hello-world</id>
     <content type="html"><![CDATA[<p>Another Hello World post, who knows who can listen to me.</p>
