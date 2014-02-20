@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[This is me]]></title>
-  <link href="http://ingoditrust.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Rants | This is me]]></title>
+  <link href="http://ingoditrust.github.io//categories/rants/atom.xml" rel="self"/>
   <link href="http://ingoditrust.github.io/"/>
   <updated>2014-02-20T19:17:33+01:00</updated>
   <id>http://ingoditrust.github.io/</id>
