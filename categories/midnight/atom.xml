@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[This is me]]></title>
-  <link href="http://ingoditrust.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Midnight | This is me]]></title>
+  <link href="http://ingoditrust.github.io/categories/midnight/atom.xml" rel="self"/>
   <link href="http://ingoditrust.github.io/"/>
   <updated>2014-02-21T04:34:25+01:00</updated>
   <id>http://ingoditrust.github.io/</id>
@@ -31,15 +31,6 @@
 <p>Yeah, they will ask me, why are you too worried? you have healthy kids (which is true, and I am so thankful for) and loving husband..</p>
 
 <p>When I am asked like this, I wish they knew how to be in my shoes. Good night/morning.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Must Hello World]]></title>
-    <link href="http://ingoditrust.github.io/a-must-hello-world/"/>
-    <updated>2014-02-20T19:16:06+01:00</updated>
-    <id>http://ingoditrust.github.io/a-must-hello-world</id>
-    <content type="html"><![CDATA[<p>Another hello world post, if you&rsquo;re listening.</p>
 ]]></content>
   </entry>
   
