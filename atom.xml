@@ -4,7 +4,7 @@
   <title><![CDATA[Dinais.me]]></title>
   <link href="http://ingoditrust.github.io/atom.xml" rel="self"/>
   <link href="http://ingoditrust.github.io/"/>
-  <updated>2014-02-21T17:04:10+01:00</updated>
+  <updated>2014-02-21T17:06:26+01:00</updated>
   <id>http://ingoditrust.github.io/</id>
   <author>
     <name><![CDATA[Dina]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Insecure world writable dir]]></title>
+    <link href="http://ingoditrust.github.io/insecure-world-writable-dir/"/>
+    <updated>2014-02-21T17:05:24+01:00</updated>
+    <id>http://ingoditrust.github.io/insecure-world-writable-dir</id>
+    <content type="html"><![CDATA[<p>Answer: chmod go-w /thedirectory/</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Testing my New Git]]></title>
