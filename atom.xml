@@ -4,7 +4,7 @@
   <title><![CDATA[Dinais.me]]></title>
   <link href="http://ingoditrust.github.io/atom.xml" rel="self"/>
   <link href="http://ingoditrust.github.io/"/>
-  <updated>2014-02-21T10:02:45+01:00</updated>
+  <updated>2014-02-21T16:42:02+01:00</updated>
   <id>http://ingoditrust.github.io/</id>
   <author>
     <name><![CDATA[Dina]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Testing my New Git]]></title>
+    <link href="http://ingoditrust.github.io/testing-my-new-git/"/>
+    <updated>2014-02-21T16:41:07+01:00</updated>
+    <id>http://ingoditrust.github.io/testing-my-new-git</id>
+    <content type="html"><![CDATA[<p>Let&rsquo;s see if this works. Not much in front of it though.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Insomnia or Just Stuffed Head]]></title>
