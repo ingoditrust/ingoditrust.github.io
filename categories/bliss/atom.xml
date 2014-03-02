@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Bliss | dinais.me]]></title>
+  <link href="http://ingoditrust.github.io/categories/bliss/atom.xml" rel="self"/>
+  <link href="http://ingoditrust.github.io/"/>
+  <updated>2014-03-02T18:43:43+01:00</updated>
+  <id>http://ingoditrust.github.io/</id>
+  <author>
+    <name><![CDATA[Dina]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Headache-Free Day]]></title>
+    <link href="http://ingoditrust.github.io/headache-free-day/"/>
+    <updated>2014-03-02T18:42:12+01:00</updated>
+    <id>http://ingoditrust.github.io/headache-free-day</id>
+    <content type="html"><![CDATA[<p>First day ever, I don&rsquo;t feel strange feeling &ldquo;ache&rdquo; in my head. So nice!</p>
+
+<p>It&rsquo;s just amazing how to feel healthy, simply no pain.</p>
+
+<p>Happiest day of my life.</p>
+]]></content>
+  </entry>
+  
+</feed>
