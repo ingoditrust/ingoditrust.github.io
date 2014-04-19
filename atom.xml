@@ -4,7 +4,7 @@
   <title><![CDATA[dinais.me]]></title>
   <link href="http://ingoditrust.github.io/atom.xml" rel="self"/>
   <link href="http://ingoditrust.github.io/"/>
-  <updated>2014-04-16T15:34:55+02:00</updated>
+  <updated>2014-04-19T16:43:38+02:00</updated>
   <id>http://ingoditrust.github.io/</id>
   <author>
     <name><![CDATA[Dina]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blank]]></title>
+    <link href="http://ingoditrust.github.io/blank/"/>
+    <updated>2014-04-19T16:43:00+02:00</updated>
+    <id>http://ingoditrust.github.io/blank</id>
+    <content type="html"><![CDATA[<p>Cheated. Puked. Bleed.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why am I always feeling sooooooo tired?]]></title>
@@ -277,27 +286,6 @@
     <updated>2014-02-21T16:41:07+01:00</updated>
     <id>http://ingoditrust.github.io/testing-my-new-git</id>
     <content type="html"><![CDATA[<p>Let&rsquo;s see if this works. Not much in front of it though.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Insomnia or Just Stuffed Head]]></title>
-    <link href="http://ingoditrust.github.io/insomnia-or-just-stuffed-head/"/>
-    <updated>2014-02-21T04:28:23+01:00</updated>
-    <id>http://ingoditrust.github.io/insomnia-or-just-stuffed-head</id>
-    <content type="html"><![CDATA[<p>04:28 I was awake since 03:00, as always I was thinking right after I was awake, do I have headache now?, I didn&rsquo;t.</p>
-
-<p>But like now when I am in front of my terminal, I have a slightly headache, I am thinking, it&rsquo;s my closed nose. Nothing to be worried about.</p>
-
-<p>Then after an hour trying to sleep, I failed miserably.</p>
-
-<p>It&rsquo;s friday, will be a sort of hectic day, still going to bake a cake for &ldquo;Kindi börse&rdquo; for tomorrow.</p>
-
-<p>It&rsquo;s just the result of tugging my little darling in bed early &ndash; result of this insomnia or full-stuffed head.</p>
-
-<p>Yeah, they will ask me, why are you too worried? you have healthy kids (which is true, and I am so thankful for) and loving husband..</p>
-
-<p>When I am asked like this, I wish they knew how to be in my shoes. Good night/morning.</p>
 ]]></content>
   </entry>
   
